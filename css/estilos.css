@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://lh3.googleusercontent.com/ftb-5C_5crbVVKouY5J2epMkt8yCmJnukSMsKoSHOhzQpngn-InqqJpORtcBaEXnMXXd4uacXXzv8UKPWSROQzqqqIZ8d1Ce8lYuVYhadiQA5RlsxPGlqnGM9zAVTFsOwis_pwHLd-8=w2400);
+    background-size: 100;
+    width: 100;
+    height: 100;
+}
+
+.menu {
+    background-color: gray;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.site-subtitle,
+.site-title {
+    color: white;
+    text-align: center;
+}
+
+.site-subtitle {
+    font-style: italic;
+}
